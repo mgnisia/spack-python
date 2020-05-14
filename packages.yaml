@@ -1,0 +1,9 @@
+packages:
+    bzip2:
+        paths:
+            bzip2@1.0.8: /usr
+        buildable: False
+    gettext:
+        paths:
+            gettext@0.19.8.1: /usr
+        buildable: False
