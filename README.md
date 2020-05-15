@@ -35,3 +35,9 @@ py35:
     - spack load python@3.5.0
     - tox -e py35
 ```
+
+## Docker Hub
+
+```shell
+docker pull mgnisia/spack-python:latest
+```
