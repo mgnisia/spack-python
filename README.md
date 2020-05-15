@@ -18,7 +18,7 @@ Import to mention is also that for the Python 3.5 version the openssl dependency
 
 In Gitlab Pipeline this container could be used as:
 
-```
+```yaml
 .job_template_spack: &spack
   image: imagename
   variables:
