@@ -1,3 +1,5 @@
+![](https://img.shields.io/docker/pulls/mgnisia/spack-python)
+
 # Spack Container for Python CI Testing
 
 This repo contains a `Dockerfile` which can be used as a container for testing in a CI or local environment.
